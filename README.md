@@ -30,4 +30,4 @@ I've used this simple editor for some time and I love it. It's lightweight and i
         resize:{cssclass:'resize'} // (optional) display options for the editor resize
     });
 
-The first parameter taken by TINY.editor.edit is the variable name used for the object instance. Keep in mind that before posting you will need to call the instance.post() function to ensure that the latest changes in the WYSIWYG translate into the text area. This script has been tested in all major browsers and is available free of charge for both personal or commercial projects under the [creative commons license](http://creativecommons.org/licenses/by/3.0/us/).
+This script has been tested in all major browsers and is available free of charge for both personal or commercial projects under the [creative commons license](http://creativecommons.org/licenses/by/3.0/us/).
